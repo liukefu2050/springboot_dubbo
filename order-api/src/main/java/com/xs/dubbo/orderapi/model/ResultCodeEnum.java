@@ -1,10 +1,6 @@
 package com.xs.dubbo.orderapi.model;
 
-/**
- *
- * @author zl
- * @date 2021/12/20
- */
+
 public enum ResultCodeEnum {
     /*** 通用部分 100 - 599***/
     // 成功请求

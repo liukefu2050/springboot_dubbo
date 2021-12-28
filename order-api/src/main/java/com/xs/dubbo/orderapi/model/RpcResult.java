@@ -2,11 +2,6 @@ package com.xs.dubbo.orderapi.model;
 
 import java.io.Serializable;
 
-/**
- *
- * @author zl
- * @date 2021/12/20
- */
 public class RpcResult<T> implements Serializable {
     /**
      * 是否响应成功
