@@ -11,7 +11,7 @@ dubbo:
     name: order-provider
   scan:
     # 接口实现者（服务实现）包
-     base-packages: com.zl.dubbo.service
+     base-packages: com.xs.dubbo.service
   # 注册中心信息
   registry:
     address: zookeeper://192.168.29.12:2181

@@ -1,6 +1,6 @@
-package com.zl.dubbo.orderapi.service;
+package com.xs.dubbo.orderapi.service;
 
-import com.zl.dubbo.orderapi.model.RpcResult;
+import com.xs.dubbo.orderapi.model.RpcResult;
 
 /**
  *

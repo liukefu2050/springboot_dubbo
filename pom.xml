@@ -14,7 +14,7 @@
     </parent>
 
     <groupId>com.zl.dubbo</groupId>
-    <artifactId>learn_dubbo</artifactId>
+    <artifactId>springboot_dubbo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!--配置-->

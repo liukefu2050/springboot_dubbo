@@ -1,4 +1,4 @@
-package com.zl.dubbo.orderapi.model;
+package com.xs.dubbo.orderapi.model;
 
 /**
  *

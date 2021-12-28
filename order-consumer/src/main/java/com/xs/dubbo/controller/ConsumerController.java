@@ -1,7 +1,7 @@
-package com.zl.dubbo.controller;
+package com.xs.dubbo.controller;
 
-import com.zl.dubbo.orderapi.model.RpcResult;
-import com.zl.dubbo.orderapi.service.OrderDubboService;
+import com.xs.dubbo.orderapi.model.RpcResult;
+import com.xs.dubbo.orderapi.service.OrderDubboService;
 import org.apache.dubbo.config.annotation.DubboReference;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

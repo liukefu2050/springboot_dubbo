@@ -1,4 +1,4 @@
-package com.zl.dubbo.controller;
+package com.xs.dubbo.controller;
 
 /**
  *

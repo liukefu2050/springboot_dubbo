@@ -1,7 +1,7 @@
-package com.zl.dubbo.service;
+package com.xs.dubbo.service;
 
-import com.zl.dubbo.orderapi.model.RpcResult;
-import com.zl.dubbo.orderapi.service.OrderDubboService;
+import com.xs.dubbo.orderapi.model.RpcResult;
+import com.xs.dubbo.orderapi.service.OrderDubboService;
 import org.apache.dubbo.config.annotation.DubboService;
 
 /**
